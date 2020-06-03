@@ -1,0 +1,69 @@
+body{
+background-color: #333333;
+color:white;
+}
+
+h1{
+  background-color:#13b4e8;
+  text-align: center;
+  font-size: 50px;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.again{
+  cursor:pointer;
+}
+
+.container{
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 30%;
+}
+
+.container12{
+  background-color: white;
+  height: 20px;
+  margin-bottom:20px;
+
+}
+
+.congrats{
+  visibility: hidden;
+}
+
+.container1{
+  background-color: white;
+  color:black;
+  margin:0 auto;
+  width: 60%;
+}
+
+.container1 span{
+  position:relative;
+ float:left;
+ font-weight: 800;
+  width: 30%;
+  text-align: center;
+
+}
+
+.square{
+  float:left;
+  width: 30%;
+  background-color: red;
+  padding-bottom:30%;
+  margin-bottom: 1.6%;
+  margin-left: 1.6%;
+  border-radius: 7%;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.colorDisplay{
+  color:#333333;
+}
+
+.inCorect{
+  background-color: #333333;
+}
